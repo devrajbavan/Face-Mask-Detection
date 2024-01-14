@@ -1,0 +1,11 @@
+Dataset Architecture to train the model
+
+project_root/
+│
+├── archive/
+│   ├── train/
+        ├── With Mask/
+        ├── Without Mask/
+│   ├── valid/
+        ├── With Mask/
+        ├── Witout Mask/
